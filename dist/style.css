@@ -1,17 +1,18 @@
 body {
-  /* font-family: 'Bebas Neue', cursive;font-family: 'Bebas Neue', cursive; */
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Bebas Neue', cursive;
 
-  background: #373e47;
-  color: #B6DADD;
+
+  background: #636d79;
+  color: #afe6eb;
   font-size: 20px;
-    font-weight: bold;
+  font-weight: bold;
 
 }
 
 h2 {
   font-weight: normal;
   text-align: center;
+  text-transform: uppercase;
   margin-top: 2vh;
 }
 
@@ -51,6 +52,7 @@ svg {
 }
 
 .text-info {
+  font-family: 'Source Sans Pro', sans-serif;
   background: #23272D;
   padding: 20px;
   max-width: 350px;
