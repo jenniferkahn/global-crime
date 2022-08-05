@@ -1,9 +1,10 @@
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+ font-family: 'Bebas Neue', cursive;
   background: #264653;
-  color: #f4a261;
-  font-size: 26px;
-  /* font-weight: bold; */
+  color: #c4e3e6;
+  font-size: 20px;
+  font-weight: bold;
+
 
 }
 
@@ -46,7 +47,7 @@ svg {
 }
 
 .hotspot {
-  cursor: zoom-in;
+  cursor: pointer;
   padding: 20px;
 }
 
