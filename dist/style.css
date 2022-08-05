@@ -1,11 +1,17 @@
 body {
-  font-family: 'Bebas Neue', cursive;
-  background: #3a495b;
-  color: #c4e3e6;
-  font-size: 20px;
-  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+  background: #264653;
+  color: #f4a261;
+  font-size: 26px;
+  /* font-weight: bold; */
 
 }
+
+/* font-family: 'Bebas Neue', cursive;
+background: #264653;
+color: #c4e3e6;
+font-size: 20px;
+font-weight: bold; */
 
 h2 {
   font-weight: normal;
@@ -40,7 +46,7 @@ svg {
 }
 
 .hotspot {
-  cursor: pointer;
+  cursor: zoom-in;
   padding: 20px;
 }
 
