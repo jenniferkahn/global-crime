@@ -46,15 +46,27 @@ svg {
   stroke-opacity: 0.6;
 }
 
-.text-info {
-  background: #23272D;
 
+
+.text-info {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: #23272D;
   padding: 20px;
   max-width: 350px;
   border: 1px solid #B6DADD;
   position: absolute;
   right: 5vw;
   top: 40vh;
+}
+// .text-info {
+//   background: #23272D;
+//
+//   padding: 20px;
+//   max-width: 350px;
+//   border: 1px solid #B6DADD;
+//   position: absolute;
+//   right: 5vw;
+//   top: 40vh;
   table {
     margin-top: 10px;
   }
